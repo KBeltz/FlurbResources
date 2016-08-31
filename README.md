@@ -7,3 +7,8 @@
 ##Rails + Ember
 * [From Rails to Ember](http://fromrailstoember.com/)
 * [Merging Rails and Ember CLI](http://smashingboxes.com/blog/merging-rails-and-ember-cli)
+
+##Web Security
+* [OWASP Top 10 Vulnerabilities]( https://www.owasp.org/index.php/Top_10_2013-Table_of_Contents)
+* [Rails Security Guide]( http://guides.rubyonrails.org/security.html)
+* [OWASP Rails Security Cheat Sheet](https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet)
