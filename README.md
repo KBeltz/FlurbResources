@@ -6,6 +6,7 @@
 
 ##Rails + Ember
 * [From Rails to Ember](http://fromrailstoember.com/)
+* [Top Mistakes Developers Make Using Ember & Rails](https://www.airpair.com/ember.js/posts/top-mistakes-ember-rails)
 
 ##Web Security
 * [OWASP Top 10 Vulnerabilities]( https://www.owasp.org/index.php/Top_10_2013-Table_of_Contents)
