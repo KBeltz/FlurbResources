@@ -1,3 +1,3 @@
 #Tutorials
 
-* [Merging Rails and Ember CLI](http://smashingboxes.com/blog/merging-rails-and-ember-cli)
+* [An Ember.js application with a Rails API backend](http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/)
