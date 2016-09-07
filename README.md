@@ -3,6 +3,7 @@
 ##Style Guides
 * [Github Ruby Style Guide](https://github.com/styleguide/ruby/)
 * [Rails 4 Style Guide](https://github.com/bbatsov/rails-style-guide)
+* [Ember Style Guide](https://github.com/emberjs/ember.js/blob/master/STYLEGUIDE.md)
 
 ##Rails + Ember
 * [From Rails to Ember](http://fromrailstoember.com/)
