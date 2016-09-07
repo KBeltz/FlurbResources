@@ -5,6 +5,7 @@
     -- easiest to start here
 * [Ember Cli tutorial](https://guides.emberjs.com/v2.7.0/tutorial/ember-cli/)
     -- then go to this tutorial
+
 ## Ember + Rails
 * [An Ember.js application with a Rails API backend](http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/)
 
