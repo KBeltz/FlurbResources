@@ -16,3 +16,4 @@
 ##Ember
 * [Ember Inspector for Chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 * [Ember Inspector for Firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+* [Introduction to Ember CLI](http://andycrum.com/2015/03/21/an-introduction-to-ember-cli/)
