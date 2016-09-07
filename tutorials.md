@@ -11,9 +11,13 @@
 
 
 ##Tutorials that didn't work because of old data or missing information
+**Ember + Rails**
 * http://ember.vicramon.com/ => this is old 2014
-* http://edgeguides.rubyonrails.org/api_app.html => not easy to follow
+* https://dockyard.com/blog/2014/05/07/building-an-ember-app-with-rails-part-1 => Attempted but my demo ran into errors
+
+**Rails API**
 * https://blog.codeship.com/building-a-json-api-with-rails-5/ => written in 2015, stops in various places just weird order and hard to follow
 * http://sourcey.com/building-the-prefect-rails-5-api-only-app/ => nothing visual to see hard to follow along with no way to verify it’s being done right 
+* http://edgeguides.rubyonrails.org/api_app.html => not easy to follow
+* 
 
-ATTEMPTED => https://dockyard.com/blog/2014/05/07/building-an-ember-app-with-rails-part-1
