@@ -1,5 +1,11 @@
 # FlurbResources
 
+##Table of Contents
+- [Style Guides](#style-guides)
+- [Rails + Ember](#rails-+-ember)
+- [Web Security](#web-security)
+- [Ember](#ember)
+
 ##Style Guides
 * [Github Ruby Style Guide](https://github.com/styleguide/ruby/)
 * [Rails 4 Style Guide](https://github.com/bbatsov/rails-style-guide)
