@@ -5,6 +5,7 @@
 - [Rails + Ember](#rails-+-ember)
 - [Web Security](#web-security)
 - [Ember](#ember)
+- [MiniTest](#minitest)
 
 ##Style Guides
 * [Github Ruby Style Guide](https://github.com/styleguide/ruby/)
