@@ -5,6 +5,7 @@
 * [Ember Cli tutorial](https://guides.emberjs.com/v2.7.0/tutorial/ember-cli/)
 * [Bookstore Client](https://github.com/zoltan-nz/bookstore-client)
 * [Building a Complex Web Application With Ember.js 2.7](http://yoember.com/)
+* [Introduction to Ember Andy Crum](http://andycrum.com/2014/05/17/an-introduction-to-ember-js/)
 
 ##Rails API
 * [Bookstore API](https://github.com/zoltan-nz/bookstore-api)
