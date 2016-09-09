@@ -3,10 +3,13 @@
 ##Ember
 * [Ember Quick Start Guide] (https://guides.emberjs.com/v2.7.0/getting-started/quick-start/)
 * [Ember Cli tutorial](https://guides.emberjs.com/v2.7.0/tutorial/ember-cli/)
+* [Bookstore Client](https://github.com/zoltan-nz/bookstore-client)
+
+##Rails API
+* [Bookstore API](https://github.com/zoltan-nz/bookstore-api)
 
 ##Ember + Rails
 * [An Ember.js application with a Rails API backend](http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/)
-
 
 ##Not Recommended
 **Ember + Rails**
