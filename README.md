@@ -29,7 +29,7 @@
 * [Fit Any Backend Into Ember Custom Adapters & Serializers](https://emberigniter.com/fit-any-backend-into-ember-custom-adapters-serializers/)
 
 ##Rails
-* [become active record migration expert (Rails 4.0.2)](https://gist.github.com/pyk/8569812)
+* [Become Active Record Migration Expert (Rails 4.0.2)](https://gist.github.com/pyk/8569812)
 
 ##MiniTest
 * [MiniTest Documentation](http://www.rubydoc.info/gems/minitest/5.9.0)
