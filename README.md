@@ -5,6 +5,8 @@
 - [Rails + Ember](#rails-+-ember)
 - [Web Security](#web-security)
 - [Ember](#ember)
+- [Handlebars](handlebars)
+- [Rails](rails)
 - [MiniTest](#minitest)
 
 ##Style Guides
@@ -27,6 +29,9 @@
 * [Introduction to Ember CLI](http://andycrum.com/2015/03/21/an-introduction-to-ember-cli/)
 * [Ember Data Model Maker](http://andycrum.github.io/ember-data-model-maker/)
 * [Fit Any Backend Into Ember Custom Adapters & Serializers](https://emberigniter.com/fit-any-backend-into-ember-custom-adapters-serializers/)
+
+##Handlebars
+* [Handlebars-Helpers](https://github.com/assemble/handlebars-helpers#lengthEqual)
 
 ##Rails
 * [Become Active Record Migration Expert (Rails 4.0.2)](https://gist.github.com/pyk/8569812)
