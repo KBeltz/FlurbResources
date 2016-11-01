@@ -35,6 +35,7 @@
 
 ##Rails
 * [Become Active Record Migration Expert (Rails 4.0.2)](https://gist.github.com/pyk/8569812)
+* [Top 8 Tools For Ruby on Rails Code Optimization and Cleanup](https://infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 
 ##MiniTest
 * [MiniTest Documentation](http://www.rubydoc.info/gems/minitest/5.9.0)
